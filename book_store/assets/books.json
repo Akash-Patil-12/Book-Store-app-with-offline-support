@@ -1,0 +1,130 @@
+[
+    {
+       "id": "1",
+       "image": "assets/images/book18.png",
+       "title": "Building Planning",
+       "author" : "S. S. Bhavikatti",
+       "price": "1400"
+    },
+   
+    {
+      "id": "2",
+      "image": "assets/images/book20.png",
+      "title": "Civil Engineering",
+      "author" : "S. P. Gupta",
+      "price": "1200"
+    },
+  
+    {
+      "id": "3",
+      "image": "assets/images/book21.png",
+      "title": "Surveying",
+      "author" : "S. K. Duggal",
+      "price": "1000"
+    },
+  
+    {
+      "id": "4",
+      "image": "assets/images/book3.png",
+      "title": "Stephen King",
+      "author" : "Rumaysa Ahmed",
+      "price": "300"
+    },
+  
+    {
+      "id": "5",
+      "image": "assets/images/book4.png",
+      "title": "Rising hear",
+      "author" : "Perumal",
+      "price": "400"
+    },
+  
+    {
+      "id": "6",
+      "image": "assets/images/book5.png",
+      "title": "Just like you",
+      "author" : "Nick Hornby",
+      "price": "500"
+    },
+  
+    {
+      "id": "7",
+      "image": "assets/images/book6.png",
+      "title": "Richest man",
+      "author" : "George S. Clason",
+      "price": "600"
+    },
+  
+    {
+      "id": "8",
+      "image": "assets/images/book7.png",
+      "title": "Success Story",
+      "author" : "Vijay K.",
+      "price": "650"
+    },
+  
+    {
+      "id": "9",
+      "image": "assets/images/book8.png",
+      "title": "Chinese Communist",
+      "author" : "Handry",
+      "price": "200"
+    },
+  
+    {
+      "id": "10",
+      "image": "assets/images/book20.png",
+      "title": "Think like a Rocket",
+      "author" : "Panik H.",
+      "price": "800"
+    },
+  
+    {
+      "id": "11",
+      "image": "assets/images/book10.png",
+      "title": "How to speak",
+      "author" : "Ron Malhotra",
+      "price": "850"
+    },
+  
+    {
+      "id": "12",
+      "image": "assets/images/book11.png",
+      "title": "Wining like Sourav",
+      "author" : "Abhirup B.",
+      "price": "880"
+    },
+  
+    {
+      "id": "13",
+      "image": "assets/images/book12.png",
+      "title": "Oxfort Avanced",
+      "author" : "Ajit J.",
+      "price": "1100"
+    },
+  
+    {
+      "id": "14",
+      "image": "assets/images/book13.png",
+      "title": "Tip of the Iceberg",
+      "author" : "Suveen Sinha",
+      "price": "690"
+    },
+  
+    {
+      "id": "15",
+      "image": "assets/images/book14.png",
+      "title": "How to read a book",
+      "author" : "Nortimer J. Adler",
+      "price": "780"
+    },
+  
+    {
+      "id": "16",
+      "image": "assets/images/book15.png",
+      "title": "Winning Sachin",
+      "author" : "Devendra P.",
+      "price": "450"
+    }
+  
+  ]
